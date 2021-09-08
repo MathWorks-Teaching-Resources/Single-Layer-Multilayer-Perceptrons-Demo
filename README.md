@@ -13,3 +13,5 @@ Follow the workflow described in the live script for examples on using the Perce
 
 ## License
 The license for this demo is available in the license.txt file in this GitHub repository.
+
+[![View Single-Layer and Multilayer Perceptrons Demo on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/98904-single-layer-and-multilayer-perceptrons-demo)
