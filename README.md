@@ -5,7 +5,7 @@ The demo consists of two files:
 - Perceptron.mlapp: an interactive MATLAB app illustrating the perceptron architecture, geometric interpretation, and learned algorithm for provided input parameters.
 - DeepLearningFundamentals.mlx: a MATLAB live script demoing the app in an intuitive, incremental manner.
 
-### MathWorks Products (http://www.mathworks.com)
+### MathWorks Products (https://www.mathworks.com)
 Developed in MATLAB release R2020a, tested in release R2020a and newer.
 
 ## Getting Started 
